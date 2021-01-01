@@ -1,0 +1,63 @@
+{
+  "urunler": [
+    {
+      "name": "Pro Plan Kedi Maması 10KG",
+      "description": "Pro Plan Kısırlaştırılmış Kediler İçin Somonlu Ve Ton Balıklı Kedi Maması 10 Kg",
+      "price": "450",
+      "imageURL": "https://productimages.hepsiburada.net/s/22/400-592/9952492617778.jpg",
+      "categoryID": 1,
+      "id": 2
+    },
+    {
+      "name": "Royal Canin Kedi Maması 4 Kg",
+      "description": "Royal Canin Fhn Sterilised 37 Kısırlaştırılmış Kedi Maması 4 Kg",
+      "price": "230",
+      "imageURL": "https://productimages.hepsiburada.net/s/22/280-413/9943345299506.jpg",
+      "categoryID": 1,
+      "id": 3
+    },
+    {
+      "name": "New Dog Köpek Maması 15KG",
+      "description": "New Dog Kuzu Etli & Pirinçli Yetişkin Köpek Maması 15KG",
+      "price": "92",
+      "imageURL": "https://productimages.hepsiburada.net/s/6/550/9728580386866.jpg/format:webp",
+      "categoryID": 2,
+      "id": 6
+    },
+    {
+      "name": "Practika Köpek Diş Temizleyici",
+      "description": "Practika Buffer Köpek Diş Temizleyici Oyuncak",
+      "price": "15",
+      "imageURL": "https://productimages.hepsiburada.net/s/26/550/10151855980594.jpg/format:webp",
+      "categoryID": 4,
+      "id": 7
+    },
+    {
+      "name": "Vardem Peluş Timsah - Köpek Oyuncağı ",
+      "description": "Vardem Peluş 30 cm Süper Dayanıklı Köpek Oyuncağı Timsah",
+      "price": "41",
+      "imageURL": "https://productimages.hepsiburada.net/s/22/550/9964899205170.jpg/format:webp",
+      "categoryID": 4,
+      "id": 8
+    }
+  ],
+  "kategoriler": [
+    {
+      "id": 1,
+      "name": "Kedi Maması"
+    },
+    {
+      "id": 2,
+      "name": "Köpek Maması"
+    },
+    {
+      "id": 3,
+      "name": "Kumlar"
+    },
+    {
+      "id": 4,
+      "name": "Oyuncaklar"
+    }
+  ],
+  "sepeturunleri": []
+}
