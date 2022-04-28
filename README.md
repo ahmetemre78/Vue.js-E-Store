@@ -1,4 +1,4 @@
-# e-store-app
+## Ufak ve basit bir e-store uygulaması. 
 
 ## Project setup
 ```
